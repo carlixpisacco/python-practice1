@@ -2,4 +2,4 @@
 
 
 def test_exercise8():
-    from exercises import exercise8  # noqa: F401
+    from exercises import diccionarios  # noqa: F401

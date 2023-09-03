@@ -2,4 +2,4 @@
 
 
 def test_exercise7():
-    from exercises import exercise7  # noqa: F401
+    from exercises import tuplas  # noqa: F401

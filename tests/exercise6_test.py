@@ -2,4 +2,4 @@
 
 
 def test_exercise6():
-    from exercises import exercise6  # noqa: F401
+    from exercises import listas  # noqa: F401

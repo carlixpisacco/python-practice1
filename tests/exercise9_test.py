@@ -2,4 +2,4 @@
 
 
 def test_exercise9():
-    from exercises import exercise9  # noqa: F401
+    from exercises import conjuntos_sets  # noqa: F401

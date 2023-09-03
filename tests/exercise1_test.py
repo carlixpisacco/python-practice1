@@ -2,4 +2,4 @@
 
 
 def test_exercise1():
-    from exercises import exercise1  # noqa: F401
+    from exercises import aritmetica_basica  # noqa: F401

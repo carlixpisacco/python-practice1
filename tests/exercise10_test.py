@@ -2,4 +2,4 @@
 
 
 def test_exercise10():
-    from exercises import exercise10  # noqa: F401
+    from exercises import coercion_a_booleanos  # noqa: F401

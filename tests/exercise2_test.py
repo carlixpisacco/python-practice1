@@ -2,4 +2,4 @@
 
 
 def test_exercise2():
-    from exercises import exercise2  # noqa: F401
+    from exercises import logica_simple_cortocircuito  # noqa: F401
